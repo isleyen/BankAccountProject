@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\ahmet\source\repos\BankaHesapYonetim\main.cpp(73,17): warning C4244: 'başlatılıyor': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\ahmet\source\repos\BankaHesapYonetim\main.cpp(105,17): warning C4244: 'başlatılıyor': 'double' - 'int' dönüşümü; veri kaybı olabilir
+  BankaHesapYonetim.vcxproj -> C:\Users\ahmet\source\repos\BankaHesapYonetim\x64\Debug\BankaHesapYonetim.exe
